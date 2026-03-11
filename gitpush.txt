@@ -1,0 +1,7 @@
+How to push files from this git codespace to git repo
+git add .
+git commit -m (-m to refernce purpose new changes)
+git push origin main
+
+
+
